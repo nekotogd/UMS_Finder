@@ -1,7 +1,8 @@
 # UMS_Finder
 A program written in Python using PyTesseract to automatically cross-search the Internet and find answers to your worksheet.
 
-Usage:
+<h1>Usage:</h1>
+
 System works based on hotkeys
 
 Q is used to search up questions.
@@ -11,3 +12,13 @@ Wait a few seconds and your browser should immediately open up with the question
 M is used to find the marking scheme.
 Once you have the question paper, make sure to scroll to the first page of the question paper.
 Then hit M and watch magic occur.
+
+<h1>Dependencies for using source code</h1>
+* pytesseract https://pypi.org/project/pytesseract/
+* keyboard https://pypi.org/project/keyboard/
+* pynput https://pypi.org/project/pynput/
+* numpy https://pypi.org/project/numpy/
+* opencv-python https://pypi.org/project/opencv-python/
+* Pillow https://pypi.org/project/Pillow/
+* ImageHash https://pypi.org/project/ImageHash/
+* pyperclip https://pypi.org/project/pyperclip/
