@@ -13,6 +13,12 @@ M is used to find the marking scheme.
 Once you have the question paper, make sure to scroll to the first page of the question paper.
 Then hit M and watch magic occur.
 
+<h1>Future plans</h1>
+
+Code is kinda ugly ngl. I'm gonna try to cleanup the code in an update.
+
+First though, I want to create an executable but there's some issues with Tesseract when exporting.
+
 <h1>Dependencies for using source code</h1>
 
 * pytesseract https://pypi.org/project/pytesseract/
