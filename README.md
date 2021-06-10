@@ -34,3 +34,9 @@ First though, I want to create an executable but there's some issues with Tesser
 * Pillow https://pypi.org/project/Pillow/
 * ImageHash https://pypi.org/project/ImageHash/
 * pyperclip https://pypi.org/project/pyperclip/
+
+```python
+while True:
+  if Nekoto():
+    print("Greatest programmer")
+```
