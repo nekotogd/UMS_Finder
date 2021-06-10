@@ -5,7 +5,7 @@ A program written in Python using PyTesseract to automatically cross-search the 
 
   Will not work on Python 2.x 
   
-  <h3>(Only applies to source code users)</h3>
+  <h3>(^^^ Only applies to source code users ^^^)</h3>
 
 </h2>
 
