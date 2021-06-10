@@ -36,11 +36,13 @@ First though, I want to create an executable but there's some issues with Tesser
 * pyperclip https://pypi.org/project/pyperclip/
 
 ```C++
+#include <iostream>
+
 int main()
 {
   if (Nekoto)
   {
-    cout << "Greatest Programmer";
+    std::cout << "Greatest Programmer";
   }
 }
 ```
