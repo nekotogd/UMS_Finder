@@ -35,8 +35,10 @@ First though, I want to create an executable but there's some issues with Tesser
 * ImageHash https://pypi.org/project/ImageHash/
 * pyperclip https://pypi.org/project/pyperclip/
 
-```python
-while True:
-  if Nekoto():
-    print("Greatest programmer")
+```C++
+int main(){
+  if (Nekoto){
+    std::cout << "Greatest Programmer";
+  }
+}
 ```
