@@ -14,6 +14,7 @@ Once you have the question paper, make sure to scroll to the first page of the q
 Then hit M and watch magic occur.
 
 <h1>Dependencies for using source code</h1>
+
 * pytesseract https://pypi.org/project/pytesseract/
 * keyboard https://pypi.org/project/keyboard/
 * pynput https://pypi.org/project/pynput/
