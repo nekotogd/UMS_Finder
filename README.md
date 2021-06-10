@@ -1,6 +1,12 @@
 # UMS_Finder
 A program written in Python using PyTesseract to automatically cross-search the Internet and find answers to your worksheet.
 
+<h2>Written in Python 3.7 and uses some dependencies from versions Python 3.5+ 
+
+  Will not work on Python 2.x
+
+</h2>
+
 <h1>Usage:</h1>
 
 System works based on hotkeys
