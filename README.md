@@ -6,6 +6,19 @@ Will not work on Python 2.x**
   
 **(The above only applies to source code users)**
 
+<h1>Installation</h1>
+
+Head to the right side of this page and you should see a section called "Releases"
+
+Go to the Releases and download 2 files:
+* installer.zip
+* main_msfinder.exe
+
+Once downloaded, extract installer.zip to **its own folder**
+
+Then run installer.exe
+Finally launch main_msfinder.exe and start getting your answers!
+
 <h1>Usage:</h1>
 
 System works based on hotkeys
