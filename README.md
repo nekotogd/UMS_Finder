@@ -21,7 +21,7 @@ Finally launch main_msfinder.exe and start getting your answers!
 
 <h1>Usage:</h1>
 
-<h3>Finding Questions</h3>
+<h3>Finding Questions:</h3>
 
 **Q** is used to search up questions.
 
@@ -29,7 +29,7 @@ Place your mouse at the top left corner of a piece of text and press Q once. The
 
 Wait a few seconds and your browser should immediately open up with the question searched up on Google.
 
-<h3>Finding Marking Schemes</h3>
+<h3>Finding Marking Schemes:</h3>
 
 **M** is used to find the marking scheme.
 
