@@ -47,7 +47,6 @@ First though, I want to create an executable but there's some issues with Tesser
 
 * pytesseract https://pypi.org/project/pytesseract/
 * keyboard https://pypi.org/project/keyboard/
-* pynput https://pypi.org/project/pynput/
 * numpy https://pypi.org/project/numpy/
 * opencv-python https://pypi.org/project/opencv-python/
 * Pillow https://pypi.org/project/Pillow/
