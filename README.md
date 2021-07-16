@@ -52,15 +52,3 @@ First though, I want to create an executable but there's some issues with Tesser
 * Pillow https://pypi.org/project/Pillow/
 * ImageHash https://pypi.org/project/ImageHash/
 * pyperclip https://pypi.org/project/pyperclip/
-
-```C++
-#include <iostream>
-
-int main()
-{
-  if (Nekoto)
-  {
-    std::cout << "Greatest Programmer";
-  }
-}
-```
