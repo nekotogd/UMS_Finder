@@ -39,9 +39,9 @@ Then hit M and watch magic occur.
 
 <h1>Future plans</h1>
 
-Code is kinda ugly ngl. I'm gonna try to cleanup the code in an update.
+Published an update which is fully RegEx based, and makes for much better picking out of the information provided.
 
-First though, I want to create an executable but there's some issues with Tesseract when exporting.
+Still need to iron out some bugs and make the searching as perfect as possible.
 
 <h1>Dependencies for using source code</h1>
 
